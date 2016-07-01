@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+
+    // test
     
     let screenSize = UIScreen.mainScreen().bounds.size
     let maze = [
